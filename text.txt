@@ -1,8 +1,4 @@
 "Hello :)" 
-<<<<<<< HEAD
+this is just a line
 :)
 :):)
-=======
-:):)
-:)
->>>>>>> master
